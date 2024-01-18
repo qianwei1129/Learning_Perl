@@ -1,12 +1,12 @@
 # Learning_Perl
 
-***作者使用"小骆驼书"《Perl语言入门》***
+***渡口灯花依旧***
 
 ---
 - [一、写在前面](Articles/Chapter_1.md)
     - 1.1 为什么我会写这个？
     - 1.2 我编写Perl程序的环境
-    - 1.3 一起搭建环境吧！
+    - 1.3 编写一条简单的程序
 - [二、标量数据](Articles/Chapter_2.md)
 - [三、列表与数组](Articles/Chapter_3.md)
 - [四、子程序](Articles/Chapter_4.md)
