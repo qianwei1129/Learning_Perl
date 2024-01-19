@@ -8,6 +8,11 @@
     - 1.2 我编写Perl程序的环境
     - 1.3 编写一条简单的程序
 - [二、标量数据](Articles/Chapter_2.md)
+    - 2.1 什么是标量？
+    - 2.2 多样的数字表达
+    - 2.3 内置警告信息
+    - 2.4 标量变量
+    - 2.5 习题
 - [三、列表与数组](Articles/Chapter_3.md)
 - [四、子程序](Articles/Chapter_4.md)
 - [五、输入与输出](Articles/Chapter_5.md)

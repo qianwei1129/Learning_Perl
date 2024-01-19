@@ -125,6 +125,23 @@ if($line eq "\n"){
 ```perl
 chomp($text = <STDIN>);
 ```
+!!!注意在输入输出有中文的时候
+```perl
+use utf8;
+#引入utf8模块 脚本内的字符串使用utf8作为编码格式
+
+binmode(STDOUT,":encoding(gbk)");
+#标准输出使用gbk作为编码格式，也可以把gbk改为gb2312
+
+binmode(STDIN,":encoding(gbk)");
+#如果涉及到输入流，例如读文件，不加这条读中文文件会出现乱码
+
+
+binmode(STDERR,":encoding(gbk)");
+#如果异常错误中的字符串有中文，请加上STDERR，否则也会出现乱码
+
+print "你好";
+```
 
 ## 2.5 习题
 1. 写一个程序， 计算在半径为 12.5 时， 圆的周长应该是多少。圆周长是半径的长度乘上 2π(大约是 2 乘以 3.141592654) 。计算结果大约是 78.5。  
