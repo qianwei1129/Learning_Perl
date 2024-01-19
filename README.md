@@ -12,8 +12,22 @@
     - 2.2 多样的数字表达
     - 2.3 内置警告信息
     - 2.4 标量变量
-    - 2.5 习题
+    - 2.5 标量变量内插
+    - 2.6 用代码点创建字符
+    - 2.7 布尔值
+    - 2.8 获取用户输入
+    - 2.9 习题
 - [三、列表与数组](Articles/Chapter_3.md)
+    - 3.1 Perl与python中相同的地方
+    - 3.2 qw简写
+    - 3.3 列表的赋值和数组操作符
+    - 3.4 pop和push,shift和unshift
+    - 3.5 splice操作符和字符串中的数组内插
+    - 3.6 Perl最喜欢用的默认变量：$_
+    - 3.7 reverse操作符
+    - 3.8 sort操作符
+    - 3.9 each操作符
+    - 3.10 习题
 - [四、子程序](Articles/Chapter_4.md)
 - [五、输入与输出](Articles/Chapter_5.md)
 - [六、哈希](Articles/Chapter_6.md)

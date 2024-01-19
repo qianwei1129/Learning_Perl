@@ -63,7 +63,7 @@ qw(
 ($data_1, $data_2) = qw[a]       # $data_2的值为undef
 ```
 
-#### pop和push,shift和unshift
+## 3.4 pop和push,shift和unshift
 同python一样操作，只是pop和push是针对数组的末尾，而shift和unshift是针对数组的开头
 ```perl
 @array = (5..9);
@@ -75,7 +75,7 @@ pop(@array)            # 踢出了7
 push(@array, 10);       # 现在@array是(5..10)
 ```
 
-#### splice操作符和字符串中的数组内插
+## 3.5 splice操作符和字符串中的数组内插
 ```perl
 splice #array, start_position, element_number, replace_array
 
@@ -102,7 +102,7 @@ splice #array, start_position, element_number, replace_array
 # 注意，这里是把 索引=2 的位置替换成最后一个数组 
 ```
 
-#### Perl最喜欢用的默认变量：$_
+## 3.6 Perl最喜欢用的默认变量：$_
 这就是一个有趣的默认变量，可以省略控制变量，Perl有许多默认变量，这是最常用的
 ```perl
 foreach (1..10){ # 默认会用$_作为控制变量
@@ -114,19 +114,19 @@ $_ = "hi LJF!";
 print; # 默认打印$_
 ```
 
-#### reverse操作符
+## 3.7 reverse操作符
 就是按照相反次序返回新的列表，但是注意，这个不会直接更改参数，加入返回值无处可去，那这种操作也就变得毫无意义
 ```perl
 reverse @fred;          # 错误用法，不会更改@fred
 @fred = reverse @fred;  # 诶这就对了！
 ```
 
-#### sort操作符
+## 3.8 sort操作符
 sort操作符会按照字符的内部编码顺序对它们去排序，所以按照ASCII码排序的编码顺序结果会有些奇怪：
 大写字符排在小写字符前面，数字排在字母前面，而标点符号则散落各处。
 同样的sort操作符也需要给出一个指定的返回值对象，不会直接修改参数的
 
-#### each操作符
+## 3.9 each操作符
 每次数组调用each，会返回数组中下一个元素对应的两个值：数组索引与元素值
 ```perl
 @LJF = qw/ a b c d /;
@@ -136,7 +136,7 @@ while(($index, $value) = each @LJF){
 }
 ```
 
-### 3.4 习题
+### 3.10 习题
 1.写一个程序，读入一些字符串，每行一个，直到文件结尾为止。然后以相反顺序输出这个列表。
 假如输入来自键盘，你需要在Unix 系统上Control+D 或在Windows 系统上键入Control+Z 来表示输入的结束。  
 
