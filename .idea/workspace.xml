@@ -2,9 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34627cd5-766e-4301-a86d-8ae60740de76" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_1/Chapter_1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_1/the_environment_i_write_perl.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_1/why_I_learn_perl.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_1/write_a_simple_script.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_10/Chapter_10.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_10/Chapter_2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_11/Chapter_11.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_11/Chapter_2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_2/Boolean value.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_2/Built-in warning message.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_2/Chapter_2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_2/Create characters with code points.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_2/Get user input.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_2/Scalar variable interpolation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_2/Scalar variable.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_2/questions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_2/varieties of numerical expressions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_2/what_is_scalar_quantity.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_3/Chapter_3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_3/List assignment and array operators.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_3/Perl's favorite default variable.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_3/abbreviation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_3/each.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_3/pop and push,shift and unshift.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_3/questions.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_3/reverse.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_3/similarity between python and perl.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_3/sort.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_3/splice operators and array interpolation in strings.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_4/Chapter_2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_4/Chapter_4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_5/Chapter_2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_5/Chapter_5.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_6/Chapter_2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_6/Chapter_6.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_7/Chapter_2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_7/Chapter_7.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_8/Chapter_2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_8/Chapter_8.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_9/Chapter_2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Articles/Chapter_9/Chapter_9.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Articles/Chapter_4.md" beforeDir="false" afterPath="$PROJECT_DIR$/Articles/Chapter_4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Questions/Question_4.pl" beforeDir="false" afterPath="$PROJECT_DIR$/Questions/Question_4.pl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Articles/Chapter_1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Articles/Chapter_10.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Articles/Chapter_11.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Articles/Chapter_2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Articles/Chapter_3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Articles/Chapter_4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Articles/Chapter_5.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Articles/Chapter_6.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Articles/Chapter_7.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Articles/Chapter_8.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Articles/Chapter_9.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,20 +83,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Learning_Perl&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;http.proxy&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Learning_Perl/Articles/Chapter_3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "http.proxy"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Learning_Perl\Articles\Chapter_3" />
+      <recent name="D:\Learning_Perl\Articles\Chapter_2" />
+      <recent name="D:\Learning_Perl\Articles\Chapter_1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,7 +116,9 @@
       <workItem from="1705481800947" duration="2331000" />
       <workItem from="1705552906103" duration="14258000" />
       <workItem from="1705637143651" duration="17555000" />
-      <workItem from="1705759442493" duration="3815000" />
+      <workItem from="1705759442493" duration="4036000" />
+      <workItem from="1706183481899" duration="118000" />
+      <workItem from="1707113346457" duration="2908000" />
     </task>
     <task id="LOCAL-00001" summary="update readme">
       <created>1705479322018</created>
@@ -130,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705669714276</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="update Chapter_4 and Question_4">
+      <created>1705763406943</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1705763406943</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +220,7 @@
     <MESSAGE value="update readme、Chapter_1 and Chapter_2" />
     <MESSAGE value="update Chapter_2" />
     <MESSAGE value="update Chapter_3 and Question_3" />
-    <option name="LAST_COMMIT_MESSAGE" value="update Chapter_3 and Question_3" />
+    <MESSAGE value="update Chapter_4 and Question_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="update Chapter_4 and Question_4" />
   </component>
 </project>
