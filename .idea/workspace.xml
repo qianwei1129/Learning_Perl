@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34627cd5-766e-4301-a86d-8ae60740de76" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="34627cd5-766e-4301-a86d-8ae60740de76" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +63,7 @@
       <workItem from="1705637143651" duration="17555000" />
       <workItem from="1705759442493" duration="4036000" />
       <workItem from="1706183481899" duration="118000" />
-      <workItem from="1707113346457" duration="3319000" />
+      <workItem from="1707113346457" duration="3642000" />
     </task>
     <task id="LOCAL-00001" summary="update readme">
       <created>1705479322018</created>
@@ -151,7 +149,28 @@
       <option name="project" value="LOCAL" />
       <updated>1707118000537</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="update the stuction of the project">
+      <created>1707118386578</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1707118386578</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update the stuction of the project">
+      <created>1707118467042</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1707118467042</updated>
+    </task>
+    <task id="LOCAL-00015" summary="update the stuction of the project">
+      <created>1707118663123</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1707118663123</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
