@@ -2,6 +2,9 @@
 
 ***渡口灯花依旧***
 
+- [Perl脚本](scripts/scripts.md)
+    - [1、GC.pl](scripts/GC.pl)
+
 ---
 - [一、写在前面](Articles/Chapter_1/Chapter_1.md)
     - [1.1 为什么我会写这个？](Articles/Chapter_1/why_I_learn_perl.md)
